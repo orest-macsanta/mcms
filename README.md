@@ -1,1 +1,1 @@
-mcms
+Simple MCMS project
